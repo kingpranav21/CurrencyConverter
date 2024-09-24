@@ -13,5 +13,5 @@ The Currency Converter is a web application built with React that allows users t
 
 ## Technologies Used
 
-- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **Frontend:** React, Custom Hooks, Tailwind CSS
 - **Version Control:** Git
